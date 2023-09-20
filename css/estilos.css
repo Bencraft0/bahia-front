@@ -1,0 +1,54 @@
+.titulo {
+    color: rgba(255, 208, 0, 0.815);
+    text-align: center;
+    font-size: 75px;
+}
+.imagen1 {
+    width: 20%;
+    height: 200px;
+    float: right;
+}
+.desc1 {
+    text-align: justify;
+}
+.lista-1 {
+    font-size: 17px;
+    font-style: oblique;
+    text-align: left;
+}
+.lista-2 {
+    font-size: 17px;
+    font-style: oblique;
+    text-align: left;
+}
+body {
+    background-color: #35C273;
+}
+.subtitulo1 {
+    color: #006868;
+    text-decoration: underline;
+    text-align: left;
+}
+
+.subtitulo2 {
+    color: #5f0068;
+    text-decoration: underline;
+    text-align: left;
+}
+.video1 {
+    display: flex;
+    justify-content: center;
+}
+.mapa {
+    float: right;
+    width: 30%;
+    height: 300px;
+}
+.subtitulo3 {
+    text-align: right;
+    color: #006868;
+    text-decoration: underline;
+}
+.audio {
+    opacity: 0;
+}
