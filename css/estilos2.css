@@ -1,48 +1,14 @@
-.titulo {
-    color: rgba(255, 208, 0, 0.815);
-    text-align: center;
-    font-size: 75px;
-}
-.desc1 {
-    text-align: justify;
-}
-.lista-1 {
-    font-size: 17px;
-    font-style: oblique;
-    text-align: left;
-}
-.lista-2 {
-    font-size: 17px;
-    font-style: oblique;
-    text-align: left;
-}
 body {
-    background-color: #412b17;
-    background-image: url(../imagenes/fondo_inicio.jpg);
-    background-repeat: repeat;
-    background-size: auto;
-
+    background-color: rgb(0, 66, 66);
+    background-image: url(../imagenes/fondo_historia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
-.subtitulo1 {
-    color: #006868;
-    text-decoration: underline;
-    text-align: left;
-}
-
-.subtitulo2 {
-    color: #5f0068;
-    text-decoration: underline;
-    text-align: left;
-}
-.video1 {
-    display: flex;
-    justify-content: center;
-}
-
-.subtitulo3 {
-    color: #006868;
-    text-decoration: underline;
-
+.titulo {
+    font-size: 50px;
+    text-align: center;
+    color: rgba(153, 0, 38, 0.699);
 }
 nav  { 
     text-align: center;
@@ -142,32 +108,43 @@ nav  {
   .button:hover {
     background: #77a3a3;
   }
-
-  .whatsappIcono {
-    position: fixed;
-    width: 50px;
-    height: 50px;
-    bottom: 10px;
-    right: 10px;
-    background-color:#00af36;
-    color: #fff;
-    border-radius: 100px;
-    text-align: center;
-}
-aside {
-  width: 20%;
-  height: 100%;
-  float: right;
-  top: 100%;
-}
 section {
-    width: 60%;
+    text-align: justify;
+    backdrop-filter: blur(5px);
+    width: 50%;
+    height: 100%;
+  }
+
+.whatsappIcono {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 10px;
+  right: 10px;
+  background-color:#00af36;
+  color: #fff;
+  border-radius: 100px;
+  text-align: center;
+}
+p {
+  color: #d6c5ff;
+  background-color: #525252;
 }
 footer {
-    background-color: #b8b8b8;
-    text-align: center;
+  background-color: #b8b8b8;
+  text-align: center;
 }
 .footer {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
+}
+aside {
+  width: 40%;
+  height: auto;
+  float: right;
+}
+.imagen_aside {
+  width: 25%;
+  height: auto;
+  float: right;
 }
