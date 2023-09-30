@@ -16,7 +16,9 @@ nav {
 	text-align: center;
 	margin-top: 50px;
 }
-
+header {
+	flex-wrap: wrap;
+}
 .boton1 {
 	font-family: Georgia;
 	color: #ffffff;
@@ -162,6 +164,7 @@ aside {
 
 footer {
 	background-color: #525252;
+	flex-wrap: wrap;
 }
 .footer-img {
 	width: 50px;

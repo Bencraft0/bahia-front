@@ -179,6 +179,7 @@ nav {
 
 footer {
 	background-color: #525252;
+	flex-wrap: wrap;
 }
 .footer-img {
 	width: 50px;
@@ -233,4 +234,7 @@ footer {
 	justify-content: space-around;
 	align-items: center;
 	background-color: #525252;
+}
+header {
+	flex-wrap: wrap;
 }
