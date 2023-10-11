@@ -1,27 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Changa:wght@200&family=Cookie&family=Dela+Gothic+One&family=Grandstander&family=Lakki+Reddy&family=Lora:ital,wght@1,500&family=Lugrasimo&family=Mountains+of+Christmas&family=Noto+Sans+JP:wght@500&family=PT+Sans+Narrow&family=Pixelify+Sans:wght@700&family=ZCOOL+XiaoWei&display=swap');
+
 .titulo-pad {
 	color: rgba(255, 208, 0, 0.815);
 	text-align: center;
-	margin-top: 5px;
-    margin-bottom: 5px;
-	font-size: 75px;
+	margin-top: 0.76vh;
+    margin-bottom: 0.76vh;
+	font-size: 11.41vh;
+	font-family: 'Mountains of Christmas', cursive;
 }
 
 .desc1 {
 	text-align: justify;
 }
-
-.listas {
-	font-size: 17px;
-	font-style: oblique;
-	display: flex;
-}
 section {
 	background-image: url(../imagenes/fondo_ingredientes.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	padding-left: 25px;
-	padding-right: 25px;
-	padding-bottom: 50px;
+	padding-left: 1.84vh;
+	padding-right: 1.84vh;
+	padding-bottom: 7.61vh;
 }
 body {
 	background-color: #412b17;
@@ -34,13 +31,15 @@ body {
 	color: #006868;
 	text-decoration: underline;
 	text-align: left;
-	margin-left: 25%;
+	margin-left: 25vw;
+	font-family: 'Lakki Reddy', serif;
 }
 
 .sp {
 	color: #5f0068;
 	text-decoration: underline;
 	text-align: left;
+	font-family: 'Lugrasimo', cursive;
 }
 
 .video1 {
@@ -52,128 +51,142 @@ body {
 	color: #006868;
 	text-decoration: underline;
 	text-align: center;
-	margin-bottom: 25px;
+	margin-bottom: 1.84vh;
+	font-family: 'Aoboshi One', serif;
 }
 
 nav {
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 7.61vh;
 }
 
 .boton1 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
-}
-
-.button:hover {
-	background: #77a3a3;
 }
 
 .boton2 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
 
-.button:hover {
-	background: #77a3a3;
-}
+
 
 .boton3 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
 
-.button:hover {
-	background: #77a3a3;
-}
+
 
 .boton4 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
 
-.button:hover {
-	background: #77a3a3;
-}
+
 
 .boton5 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
-
-.button:hover {
-	background: #77a3a3;
+.boton6 {
+	font-family: 'Changa', sans-serif;
+	color: #ffffff;
+	font-size: 4vh;
+	padding: 0.73vw;
+	text-decoration: none;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
+	background: -moz-linear-gradient(top, #828282, #525252);
+}
+.boton1:hover,
+.boton2:hover,
+.boton3:hover,
+.boton4:hover,
+.boton5:hover,
+.boton6:hover {
+    background: #19002e;
+	transition: all 0.7s;
+	transform: scale(1.5);
+	box-shadow:  0.29vw 0.29vw 0.59vw rgba(0, 0, 0, 0.3);
 }
 
 .whatsappIcono {
 	position: fixed;
-	width: 50px;
-	height: 50px;
-	bottom: 10px;
-	right: 10px;
+	width: 3.68vw;
+	height: 7.61vh;
+	bottom: 1.52vh;
+	right: 0.73vw;
 	background-color: #00af36;
 	color: #fff;
-	border-radius: 100px;
+	border-radius: 7.35vw;
 	text-align: center;
 }
 
@@ -182,8 +195,9 @@ footer {
 	flex-wrap: wrap;
 }
 .footer-img {
-	width: 50px;
-	height: 50px;
+	width: 3.67vw;
+	height: 7.61vh;
+	border-radius: 75%
 }
 .footer-padre {
 	display: flex;
@@ -194,8 +208,10 @@ footer {
 	display: flex;
 	justify-content: space-between;
 	width: 70%;
-	margin-bottom: 30px;
-	margin-left: 20px;
+	margin-bottom: 4.56vh;
+	margin-left: 1.47vw;
+	font-size: 4vh;
+	font-style: oblique;
 }
 .all {
 	display: flex;
@@ -204,29 +220,30 @@ footer {
 	width: 100%;
 }
 .aside-padre {
-	margin-left: 30px;
+	margin-left: 2.2vw;
 }
 .aside-img {
 	text-align: center;
 	width: 100%;
 }
 .aside-map {
-	margin-bottom: 50px;
+	margin-bottom: 7.61vh;
 }
 .pvideo {
 	display: flex;
 	justify-content: center;
 }
 .footer-padre {
-	margin-top: 50px;
+	margin-top: 7.61vh;
 	align-items: center;
 }
 .header-img {
-	width: 50px;
-	height: 50px;
+	width: 3.67vw;
+	height: 7.61vh;
+	border-radius: 75%
 }
 .logo {
-	width: 100px;
+	width: 7.35vw;
 	height: auto;
 }
 .header-padre {
@@ -237,4 +254,29 @@ footer {
 }
 header {
 	flex-wrap: wrap;
+}
+a:hover {
+	color: rgb(35, 145, 130);
+	transition: color 0.7s;
+}
+a img:hover{
+	transform: scale(1.1);
+	box-shadow: 0.15vw 0.15vw 0.3vw rgba(0, 0, 0, 0.3);
+}
+
+.header-titulo {
+	font-family: 'Dela Gothic One', sans-serif;
+}
+.texto1 {
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.footer-contacto {
+	font-family: 'Pixelify Sans', sans-serif;
+}
+.texto2 {
+	font-family: 'Cookie', cursive;
+}
+.texto3 {
+	font-family: 'ZCOOL XiaoWei', sans-serif;
 }

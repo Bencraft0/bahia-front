@@ -1,117 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Autour+One&family=Changa:wght@300&family=Dela+Gothic+One&family=Grandstander:wght@300&family=Lora:ital,wght@1,600&family=Mountains+of+Christmas:wght@700&family=PT+Sans+Narrow&family=Pixelify+Sans:wght@700&display=swap');
+
 nav {
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 7.61vh;
 }
 
 .boton1 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
-}
-
-.button:hover {
-	background: #77a3a3;
 }
 
 .boton2 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
 
-.button:hover {
-	background: #77a3a3;
-}
+
 
 .boton3 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
 
-.button:hover {
-	background: #77a3a3;
-}
+
 
 .boton4 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
 
-.button:hover {
-	background: #77a3a3;
-}
+
 
 .boton5 {
-	font-family: Georgia;
+	font-family: 'Changa', sans-serif;
 	color: #ffffff;
-	font-size: 20px;
-	padding: 10px;
+	font-size: 4vh;
+	padding: 0.73vw;
 	text-decoration: none;
-	-webkit-border-radius: 28px;
-	-moz-border-radius: 28px;
-	border-radius: 28px;
-	-webkit-box-shadow: 0px 1px 3px #666666;
-	-moz-box-shadow: 0px 1px 3px #666666;
-	box-shadow: 0px 1px 3px #666666;
-	border: sólido #8f8f8f 2px;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
 	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
 	background: -moz-linear-gradient(top, #828282, #525252);
 }
-
-.button:hover {
-	background: #77a3a3;
+.boton6 {
+	font-family: 'Changa', sans-serif;
+	color: #ffffff;
+	font-size: 4vh;
+	padding: 0.73vw;
+	text-decoration: none;
+	-webkit-border-radius: 2.05vw;
+	-moz-border-radius: 2.05vw;
+	border-radius: 2.05vw;
+	-webkit-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	-moz-box-shadow: 0vw 0.07vw 0.22vw #666666;
+	box-shadow: 0vw 0.07vw 0.22vw #666666;
+	border: sólido #8f8f8f 0.15vw;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#828282), to(#525252));
+	background: -moz-linear-gradient(top, #828282, #525252);
 }
-
+.boton1:hover,
+.boton2:hover,
+.boton3:hover,
+.boton4:hover,
+.boton5:hover,
+.boton6:hover {
+    background: #19002e;
+	transition: all 0.7s;
+	transform: scale(1.5);
+	box-shadow:  0.29vw 0.29vw 0.59vw rgba(0, 0, 0, 0.3);
+}
 .titulo {
 	color: #0187f59f;
 	text-align: center;
-	font-size: 75px;
+	font-size: 11.41vh;
+	font-family: 'Grandstander', cursive;
 }
 
 body {
@@ -121,34 +136,44 @@ body {
 	background-attachment: fixed;
 }
 
+a:hover {
+	color: rgb(35, 145, 130);
+	transition: color 0.7s;
+}
+a img:hover{
+	transform: scale(1.1);
+	box-shadow: 0.15vw 0.15vw 0.29vw rgba(0, 0, 0, 0.3);
+}
+
 .otros {
-	width: 400px;
-	height: 300px;
+	width: 29.41vw;
+	height: 45.66vh;
 }
 
 .whatsappIcono {
 	position: fixed;
-	width: 50px;
-	height: 50px;
-	bottom: 10px;
-	right: 10px;
+	width: 3.68vw;
+	height: 7.61vh;
+	bottom: 1.52vh;
+	right: 0.73vw;
 	background-color: #00af36;
 	color: #fff;
-	border-radius: 100px;
+	border-radius: 7.35vw;
 	text-align: center;
 }
 .otros {
 	border-color: rgb(88, 80, 80);
 	border-style: double;
-	border-style: 5px;
+	border-style: 0.36vw;
 }
 footer {
 	background-color: #525252;
 	flex-wrap: wrap;
 }
 .footer-img {
-	width: 50px;
-	height: 50px;
+	width: 3.67vw;
+	height: 7.61vh;
+	border-radius: 75%
 }
 
 .footer-padre {
@@ -160,11 +185,12 @@ header {
 	flex-wrap: wrap;
 }
 .header-img {
-	width: 50px;
-	height: 50px;
+	width: 3.67vw;
+	height: 7.61vh;
+	border-radius: 75%
 }
 .logo {
-	width: 100px;
+	width: 7.35vw;
 	height: auto;
 }
 .header-padre {
@@ -176,6 +202,18 @@ header {
 .all {
 	display: flex;
 	text-align: center;
-	margin-bottom: 75px;
-	margin-top: 50px;
+	margin-bottom: 11.41vh;
+	margin-top: 7.61vh;
+}
+a:hover {
+	color: rgb(35, 145, 130);
+	transition: color 0.7s;
+}
+
+.header-titulo {
+	font-family: 'Dela Gothic One', sans-serif;
+}
+
+.footer-contacto {
+	font-family: 'Pixelify Sans', sans-serif;
 }
